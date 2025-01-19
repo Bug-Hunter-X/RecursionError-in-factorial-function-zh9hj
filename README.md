@@ -1,0 +1,1 @@
+This repository contains examples of a common error in recursive functions in Python: forgetting to handle negative input in the factorial function. The bug.py file demonstrates the error, while bugSolution.py shows the corrected version.
